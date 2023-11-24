@@ -100,7 +100,7 @@ namespace SocketAsync_Client_Bot_Server_Bot
 
                 while (true)
                 {
-                    Thread.Sleep(500);
+                    //Thread.Sleep(1000);
 
                     switch (_random.Next(1, 11))
                     {
